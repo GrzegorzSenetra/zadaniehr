@@ -18,3 +18,8 @@ pharetra. Orci ac auctor augue mauris augue neque. In nisl nisi
 scelerisque eu ultrices vitae auctor eu. Libero volutpat sed 
 cras ornare. Viverra suspendisse potenti nullam ac tortor vitae
  purus faucibus ornare.`
+
+export const CONTENT_TEXT2 = `Viverra suspendisse potenti nullam ac tortor vitae
+purus faucibus ornare. Viverra suspendisse potenti nullam ac tortor vitae
+purus faucibus ornare. Viverra suspendisse potenti nullam ac tortor vitae
+purus faucibus ornare.`
